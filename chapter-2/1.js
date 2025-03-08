@@ -1,7 +1,14 @@
+//2.1
 age=24;
+//2.2
 sibling=2;
+//2.3
 students=40;
+//2.4
 marks=75;
+//2.5
 rooms=3;
+//2.6
 hours=4;
+//2.7
 total=49;
