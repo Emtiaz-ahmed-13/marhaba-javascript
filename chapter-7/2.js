@@ -30,5 +30,5 @@ while (num >= 110) {
     console.log(num / 2); 
     num--; 
 }
-//7.160
+
 
