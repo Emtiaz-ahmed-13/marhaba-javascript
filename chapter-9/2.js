@@ -67,4 +67,3 @@ function mobileUse(dailyHours) {
 }
 mobileUse(5); 
 
-// 9.224
