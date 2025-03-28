@@ -1,7 +1,7 @@
 //15.355
 let num=15;
 let copy=num;
-copy=15;
+copy=25;
 console.log("num",num);
 console.log("copy",copy);   
 /*📌 ব্যাখ্যা:
